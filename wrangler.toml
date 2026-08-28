@@ -1,4 +1,4 @@
-name = "telegram-api-bot"
+name = "telegram-api-bot1"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
@@ -8,5 +8,18 @@ ADMIN_ID = "7394600693"
 
 [[d1_databases]]
 binding = "DB"
+database_name = "bot-db"name = "telegram-api-bot1"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+BOT_TOKEN = "8659882105:AAFrCNFCjMM3hCWXlPPg9HdC1bc756XR0FQ"
+ADMIN_ID = "7394600693"
+
+[[d1_databases]]
+binding = "DB"
 database_name = "bot-db"
+database_id = "0057ed3b-1c02-49d1-b94b-6e3b1c070ca9"
+
 database_id = "0057ed3b-1c02-49d1-b94b-6e3b1c070ca9"
