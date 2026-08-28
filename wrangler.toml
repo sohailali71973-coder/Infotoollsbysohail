@@ -1,4 +1,4 @@
-name = "telegram-api-bot1"
+name = "telegram-api-botv1"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
