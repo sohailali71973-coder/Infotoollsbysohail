@@ -9,4 +9,4 @@ ADMIN_ID = "7394600693"
 [[d1_databases]]
 binding = "DB"
 database_name = "bot-db"
-database_id = "YOUR_D1_DATABASE_ID"
+database_id = "0057ed3b-1c02-49d1-b94b-6e3b1c070ca9"
